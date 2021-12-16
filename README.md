@@ -1,5 +1,5 @@
-#ATCE
-##*A(nother) Technical Computing Environment*
+# ATCE
+## *A(nother) Technical Computing Environment*
 
 This little project is inspired in the time I have been working on C after years of work in C++, the whole for a free matlab clone and expose the object pascal capabilities for some kind of projetcs.
 
@@ -9,7 +9,7 @@ The low level units use procedural programming, the high level units are based o
 
 On the other hand, ATCE aims to make some contrubution by creating a free technical computing environment similar to octave or scilab but including a scripting language we love (creators at least :))
 
-##Parts:
+## Parts:
 	* Common
 	* Numeric Core
 	* Engine
@@ -18,7 +18,7 @@ On the other hand, ATCE aims to make some contrubution by creating a free techni
 	* GUI
 
 
-##The language:
+## The language:
 
 basic lenguaje based on modules as pascal (interface, implementation, initialization, finalization)
 but in a curly way as C
