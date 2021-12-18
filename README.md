@@ -63,4 +63,7 @@ print(ops(3,5))
 asdf
 ```
 
+* we can chain operations over data using pipe operator
+
+x |> select(xxx) |> * 2 |> XXX 
 
